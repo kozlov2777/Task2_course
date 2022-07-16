@@ -12,7 +12,7 @@ public class Advertising implements PaidBroadcasting {
 
     @Override
     public Double duration() {
-        return 10.0;
+        return duration;
     }
 
     @Override
